@@ -1,0 +1,18 @@
+.kg-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.kg-span {
+    font-weight: 500;
+}
+
+.button {
+    transition: background-color 0.2s ease;
+}
+
+.button:hover {
+    background-color: #0dcaf0;
+}
